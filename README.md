@@ -64,10 +64,10 @@
 	<table style="background:#f7fafc;border-radius:16px;border:1.5px solid #e5e7eb;box-shadow:0 2px 8px 0 #e5e7eb;width:auto;min-width:540px;max-width:700px;margin:auto;">
 		<tr>
 			<td style="border:none;padding:18px 32px 18px 32px;text-align:center;vertical-align:middle;border-right:1.5px solid #e5e7eb;">
-				<img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=imnaeem&theme=default&hide_border=true" />
+				<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=imnaeem&theme=default&hide_border=true" />
 			</td>
 			<td style="border:none;padding:18px 32px 18px 32px;text-align:center;vertical-align:middle;">
-				<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnaeem&layout=compact&theme=default&hide_border=true" />
+				<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnaeem&layout=compact&theme=default&hide_border=true" />
 			</td>
 		</tr>
 	</table>
