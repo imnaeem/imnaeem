@@ -76,7 +76,7 @@
 
 ---
 
-A full-stack developer, just a ping away.
+💬 A full-stack developer, just a ping away.
 
 
 <p>
