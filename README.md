@@ -2,9 +2,10 @@
 
 **A Full-Stack Software Engineer** passionate about building robust, scalable, and high-performance web products.
 
-- 🔧 Enjoy working across the stack with frontend, backend, and cloud  
-- 📦 Turning complex requirements into simple, working solutions  
-- 📈 Always looking for ways to make apps faster and easier to maintain  
+- 🛠️ Enjoy working across the stack with frontend, backend, and cloud
+- 📦 Turning complex requirements into simple, working solutions
+- ⚡ Always looking for ways to make apps faster and easier to maintain
+- 🚀 Built [SmartRec](https://smartrec.muhammadnaeem.me/), [AiBot](https://aibot.muhammadnaeem.me/), [ConsSols](https://conssols.muhammadnaeem.me/), [Personal Portfolio](https://muhammadnaeem.me/), and more 
 
 <br/>
 
