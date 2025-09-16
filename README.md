@@ -5,7 +5,7 @@
 - 🛠️ Enjoy working across the stack with frontend, backend, and cloud
 - 📦 Turning complex requirements into simple, working solutions
 - ⚡ Always looking for ways to make apps faster and easier to maintain
-- 🚀 Built [SmartRec](https://smartrec.muhammadnaeem.me/), [AiBot](https://aibot.muhammadnaeem.me/), [ConsSols](https://conssols.muhammadnaeem.me/), [Personal Portfolio](https://muhammadnaeem.me/), and more 
+- 🚀 Built [SmartRec](https://smartrec.muhammadnaeem.me/), [AiBot](https://aibot.muhammadnaeem.me/), [ConsSols](https://conssols.muhammadnaeem.me/), and more 
 
 <br/>
 
@@ -79,8 +79,8 @@
 💬 A full-stack developer, just a ping away.
 
 
-<p>
+<!-- <p>
 <a href="mailto:contact@muhmmadnaeem.me"><img src="https://img.shields.io/badge/Email-contact%40muhmmadnaeem.me-0b6ab0?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/im-naeem/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-im--naeem-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://muhammadnaeem.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-muhammadnaeem.me-18181b?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-</p>
+</p> -->
