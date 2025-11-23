@@ -5,7 +5,7 @@
 - 🛠️ Enjoy working across the stack with frontend, backend, and cloud
 - 📦 Turning complex requirements into simple, working solutions
 - ⚡ Always looking for ways to make apps faster and easier to maintain
-- 🚀 Built [SmartRec](https://smartrec.muhammadnaeem.me/), [AiBot](https://aibot.muhammadnaeem.me/), [ConsSols](https://conssols.muhammadnaeem.me/), [JSON To TOON Converter](https://jsontoonconverter.com/),  and more 
+- 🚀 Built [SmartRec](https://smartrec.imnaeem.dev/), [AiBot](https://aibot.imnaeem.dev/), [ConsSols](https://conssols.imnaeem.dev/), [JSON To TOON Converter](https://jsontoonconverter.com/),  and more 
 
 <br/>
 
